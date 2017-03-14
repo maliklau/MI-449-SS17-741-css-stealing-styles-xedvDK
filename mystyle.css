@@ -83,6 +83,7 @@ input[type="text"] {
   text-align: start;
   padding-right: 10px;
   padding-left: 10px;
+  box-sizing: border-box;
 }
 
 input:focus {
